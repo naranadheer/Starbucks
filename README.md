@@ -1,5 +1,5 @@
 # Starbucks
-Starbucks__Rewards_Capstone_Project
+Starbucks Rewards Capstone Project
 
 Project Background:
 Starbucks is a coffee company which provides rewards to certain customers to their mobile app.
