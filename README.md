@@ -24,3 +24,28 @@ seaborn: Statistical Data Visualization
 Miscellaneous operating system interfaces
 
 scikit-learn: Machine Learning in Python
+
+
+Problem Statement<br>
+
+The goal of the project is to identify whether customers will respond to the offer given transaction,demographic and offer data.
+The steps to solve the challenge is:
+Explore all the given data.
+Preprocess and visualize data.
+Data modelling
+Training on different algorithms
+Evaluating the metrics and choosing a better performing model.
+
+
+Results<br>
+
+The benchmark was achieved by using AdaBoostClassifier which is 0.97 and I believe there is no room for improvement and it may be overfitting.
+The metrics used is F1 score because it evaluated good accuracy by leveraging precision and recall in classification problems.
+
+
+
+Improvements:<br>
+
+Support vector classifiers have large Time complexity which might give better accuracy,but avoided due to resource constraint.
+The result which may overfit problem better feature engineering ang hyperparameter may result in great accuracy.
+
