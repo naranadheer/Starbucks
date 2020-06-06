@@ -9,3 +9,18 @@ one free).
 Problem Statement:
 The aim of this project is to identify whether an offer provided by Starbucks is reaching the
 target audience and classify offers to complete the transaction.
+
+## Software and Python Libraries Used
+
+
+Python Data Analysis Library
+
+Numpy
+
+Matplotlib
+
+seaborn: Statistical Data Visualization
+
+Miscellaneous operating system interfaces
+
+scikit-learn: Machine Learning in Python
